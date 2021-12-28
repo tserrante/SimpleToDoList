@@ -1,0 +1,12 @@
+ul>li {
+    width: 16em;
+    height: 2.5em;
+}
+
+ul>li>button {
+    float: right;
+}
+
+.done {
+    text-decoration: line-through;
+}
